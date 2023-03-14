@@ -4,7 +4,7 @@ Dockerfile to build image of nginx and php for laravel
 Install in parallel with the laravel directory
 
 # Directory
-default
-init.sh
-dockerfile
-./laravel
+- default
+- init.sh
+- dockerfile
+- ./laravel
